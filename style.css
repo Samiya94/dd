@@ -1,0 +1,19 @@
+/* This is a CSS comment */
+
+/* Styling all paragraph elements */
+p {
+  color: blue; /* Sets the text color to blue */
+  font-size: 16px; /* Sets the font size to 16 pixels */
+}
+
+/* Styling an element with a specific ID */
+#myHeading {
+  background-color: lightgray; /* Sets the background color */
+  padding: 10px; /* Adds 10 pixels of padding around the content */
+}
+
+/* Styling elements with a specific class */
+.highlight {
+  font-weight: bold; /* Makes the text bold */
+  border: 1px solid red; /* Adds a 1-pixel solid red border */
+}
